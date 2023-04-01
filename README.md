@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### 웹 서비스 기술의 기본이 단단하게 자리잡은 개발자가 되고싶습니다.
 ![HTML](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <!--
 **l3luesky/l3luesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
