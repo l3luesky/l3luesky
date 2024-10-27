@@ -1,10 +1,5 @@
 ### Hi there 👋
 #### 웹 서비스 기술의 기본이 단단하게 자리잡은 개발자가 되고싶습니다.
-![HTML](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
